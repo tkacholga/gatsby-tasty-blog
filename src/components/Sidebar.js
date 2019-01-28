@@ -4,9 +4,9 @@ import {
   CardTitle,
   CardBody,
   CardText,
-  Form,
+  /* Form,
   FormGroup,
-  Input,
+  Input, */
 } from 'reactstrap'
 import { graphql, StaticQuery, Link } from 'gatsby'
 import Img from 'gatsby-image'
@@ -78,7 +78,7 @@ const Sidebar = ({ author, authorFluid }) => (
         </CardBody>
       </Card>
     )}
-    <Card>
+    {/* <Card>
       <CardBody>
         <CardTitle className="text-center text-uppercase mb-3">
           Newsletter
@@ -96,7 +96,7 @@ const Sidebar = ({ author, authorFluid }) => (
           </button>
         </Form>
       </CardBody>
-    </Card>
+    </Card> */}
     <Card>
       <CardBody>
         <CardTitle className="text-center text-uppercase">

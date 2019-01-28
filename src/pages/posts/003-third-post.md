@@ -2,7 +2,7 @@
 title: 'Third Post - Pancakes'
 date: '2019-01-03T07:00:00Z'
 author: 'John Doe'
-image: ../../images/javascript.jpg
+image: ../../images/pancake.jpg
 tags:
   - pancakes
   - recepies
